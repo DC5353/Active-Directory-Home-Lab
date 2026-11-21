@@ -68,7 +68,7 @@ An ISO file is an uncompressed, sector-by-sector digital replica of optical disc
 **Network**
  - Moving on to the `Network tab`, since the network adapter is already enabled on `Adapter 1`, go to `Adapter 2`, enable it, and attach an `internal Network` card.
 
- **Note** `- NAT (through RAS) solves the problem that this isolated network has no path to the internet. The DC has two NICs: one on your home network, one on the internal network. With NAT enabled, the DC forwards client traffic out through its Internet NIC and translates the private addresses to its own address. The internal network is an isolated virtual network that only the domain controller and the clients are on. It lets the lab behave like a real company network. The DC controls DHCP and DNS for it, so clients get their addresses from the DC and find the domain through the DC's DNS. It also keeps the lab from interfering with your home network, since a second DHCP server on your home LAN would cause conflicts.`
+ **Note** `- The lab uses an isolated internal network so the domain controller can provide DHCP and DNS without conflicting with my home network. Because that network has no direct route to the internet, I configured RAS/NAT on the domain controller. It translates client traffic from the internal NIC out through the Internet NIC, giving domain clients internet access while keeping them isolated.`
 
 <img width="772" height="505" alt="Network A" src="https://github.com/user-attachments/assets/6e5d02ba-a934-42f9-b347-7b083e4acd26" />
 
