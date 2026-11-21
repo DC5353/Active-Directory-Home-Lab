@@ -10,7 +10,7 @@ To practice and demonstrate fundamental systems administration skills, I built a
 <details>
 <summary>
   
- # VirtualBox - Server 2019 & Windows 10 Setup
+ # VirtualBox - Server 2022 & Windows 11 Setup
 </summary>
 
 # 1. Download and install VirtualBox.
