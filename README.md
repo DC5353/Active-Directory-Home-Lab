@@ -111,7 +111,7 @@ An ISO file is an uncompressed, sector-by-sector digital replica of optical disc
 
 <img width="1021" height="846" alt="Disk A" src="https://github.com/user-attachments/assets/a5a5c5d4-46ce-444e-9053-77baf7d95aab" />
 
-Windows will then begin the installation process.
+Windows will then begin the installation process & restart itself.
 
 <img width="1019" height="849" alt="install p" src="https://github.com/user-attachments/assets/acd5238d-8adf-41d5-808d-958c30c344de" />
 
