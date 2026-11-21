@@ -13,7 +13,7 @@ To practice and demonstrate fundamental systems administration skills, I built a
  # VirtualBox - Server 2022 & Windows 11 Setup
 </summary>
 
-# 1. Download and install VirtualBox.
+# 1. Download and install VirtualBox
   - To start, visit the [VirtualBox website](https://www.virtualbox.org/) and download the latest version.
   - Follow the installation wizard to complete the setup.
 
@@ -23,5 +23,11 @@ To practice and demonstrate fundamental systems administration skills, I built a
 
 # What is an ISO file?
 An ISO file is an uncompressed, sector-by-sector digital replica of optical discs (CDs, DVDs, or Blu-rays) that serve as virtual installation media for virtual machines. In this use scenario, I'm mounting these ISO files and booting from them using VirtualBox virtualization software, much like you would with a real PC, laptop, or disk.
+
+# 3. Creating a new virtual machine
+ - To start creating a new virtual machine, open VirtualBox and click "New".
+
+   <img width="1276" height="744" alt="VirtualBox Setup" src="https://github.com/user-attachments/assets/ca911927-1c76-4c53-8379-ed6bd0ecb857" />
+
 
 </details>
