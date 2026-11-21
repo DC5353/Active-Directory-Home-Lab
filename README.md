@@ -37,7 +37,7 @@ An ISO file is an uncompressed, sector-by-sector digital replica of optical disc
 
    <img width="1276" height="744" alt="VirtualBox Setup" src="https://github.com/user-attachments/assets/ca911927-1c76-4c53-8379-ed6bd0ecb857" />
 
- - Then, name your VM after the ISO file you are using; for example, mine is `Windows Server 2022`.
+ - Then, name your VM after the ISO file you are using; for example, mine is `Windows Server 2022 DC1`. DC stands for Domain Controller; I plan on adding a 2nd controller later on.
 
 
 
