@@ -87,5 +87,10 @@ An ISO file is an uncompressed, sector-by-sector digital replica of optical disc
 
 <img width="1276" height="744" alt="Install S" src="https://github.com/user-attachments/assets/b642e96c-e249-427f-990b-2b33980e9778" />
 
+ - Once the VM boots, set up your Language, time, currency format, and Input method, then click `Next`.
+
+<img width="1017" height="847" alt="W 2022" src="https://github.com/user-attachments/assets/053157e7-afdd-41e6-b1d8-a059adbe1608" />
+
+
   
   </details>
