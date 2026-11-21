@@ -39,7 +39,7 @@ An ISO file is an uncompressed, sector-by-sector digital replica of optical disc
 
  - Then, starting with **Virtual machine name and operating system**, name your VM after the ISO file you are using; for example, mine is `Windows Server 2022 DC1`. DC stands for Domain Controller; I plan on adding a 2nd controller later on. However, yours can be `Windows Server 2022`.
  - Select the Windows Server ISO image.
- - I unchecked `Skip Unattended Installation`, then pressed `Finish`.
+ - I unchecked `Proceed with Unattended Installation`, then pressed `Finish`.
 
 <img width="803" height="551" alt="VM name" src="https://github.com/user-attachments/assets/5773c593-c61a-48e7-87de-bfcefbbff209" />
 
