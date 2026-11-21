@@ -38,6 +38,13 @@ An ISO file is an uncompressed, sector-by-sector digital replica of optical disc
    <img width="1276" height="744" alt="VirtualBox Setup" src="https://github.com/user-attachments/assets/ca911927-1c76-4c53-8379-ed6bd0ecb857" />
 
  - Then, name your VM after the ISO file you are using; for example, mine is `Windows Server 2022 DC1`. DC stands for Domain Controller; I plan on adding a 2nd controller later on.
+ - Select the Windows Server ISO image.
+ - I checked Skip Unattended Installation, meaning I do not want to install guest additions; now move on to Set up unattended guest OS installation.
+
+
+<img width="803" height="551" alt="VM name" src="https://github.com/user-attachments/assets/5773c593-c61a-48e7-87de-bfcefbbff209" />
+
+ - 
 
 
 
