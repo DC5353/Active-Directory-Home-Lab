@@ -65,9 +65,10 @@ An ISO file is an uncompressed, sector-by-sector digital replica of optical disc
 
 <img width="774" height="509" alt="System P" src="https://github.com/user-attachments/assets/9affcde0-0e21-4ac1-9714-6b56c2f566ed" />
 
+**Network**
+ - Moving on to the `Network tab`, since the network adapter is already enabled on `Adapter 1`, go to `Adapter 2`, enable it, and attach an internal Network card.
 
-
-
+<img width="772" height="505" alt="Network A" src="https://github.com/user-attachments/assets/7811b473-b85b-463d-a0e3-5ce1926a4056" />
 
 
 
