@@ -74,24 +74,30 @@ An ISO file is an uncompressed, sector-by-sector digital replica of optical disc
 
  - Now press `OK` to save and finish.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 </details>
+
+<details>
+<summary>
+ 
+  # Install Windows Server 2022
+<summary>
+  
+  1. Open VirtualBox, select the Server 2022 VM, and click `Start`.
+
+<img width="1276" height="744" alt="Install S" src="https://github.com/user-attachments/assets/b642e96c-e249-427f-990b-2b33980e9778" />
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <details>
