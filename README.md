@@ -91,6 +91,9 @@ An ISO file is an uncompressed, sector-by-sector digital replica of optical disc
 
 <img width="1017" height="847" alt="W 2022" src="https://github.com/user-attachments/assets/053157e7-afdd-41e6-b1d8-a059adbe1608" />
 
+ - On the Windows setup screen, click `Install Now`.
+
+<img width="1022" height="849" alt="iNSTALL N" src="https://github.com/user-attachments/assets/40b28306-201b-416d-8282-89ffc282c29b" />
 
   
   </details>
