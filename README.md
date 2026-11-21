@@ -63,6 +63,7 @@ An ISO file is an uncompressed, sector-by-sector digital replica of optical disc
 
 - Still in the `System tab`, go to `Processor` to increase the number of CPUs for a smoother experience. I will be allocating 4 CPU cores. Again, make sure your system can handle the load.
 
+<img width="774" height="509" alt="System P" src="https://github.com/user-attachments/assets/9affcde0-0e21-4ac1-9714-6b56c2f566ed" />
 
 
 
