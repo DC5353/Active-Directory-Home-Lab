@@ -57,8 +57,9 @@ An ISO file is an uncompressed, sector-by-sector digital replica of optical disc
 <img width="776" height="515" alt="VM Features" src="https://github.com/user-attachments/assets/ceb84d13-3db9-47b5-a6f1-8c40666ac492" />
 
 **System**
- - In the `System tab`, go to `Motherboard` for the base memory increase for a smoother experience. 2048MB equals 2GB; double will be 4096MB, equaling 4GB, and so on. I will be using 4GB of RAM. Make sure your system can handle the load.
+ - In the `System tab`, go to `Motherboard` for the base memory increase for a smoother experience. 2048MB equals 2GB; double will be 4096MB, equaling 4GB, and so on. I will be allocating 4GB of RAM. Make sure your system can handle the load.
 
+<img width="778" height="508" alt="System M" src="https://github.com/user-attachments/assets/d7aefc81-611c-4337-ac9b-a170d2a11411" />
 
 
 </details>
