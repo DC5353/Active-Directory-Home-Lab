@@ -103,8 +103,9 @@ An ISO file is an uncompressed, sector-by-sector digital replica of optical disc
 
 <img width="1024" height="849" alt="License" src="https://github.com/user-attachments/assets/7bbc6210-3588-4f87-8696-6ab132c9d436" />
 
+ - On the next page, select `Custom Install`.
 
-
+<img width="1025" height="848" alt="Install C" src="https://github.com/user-attachments/assets/1731b242-bb18-442c-b71f-0d573d04f09e" />
 
 
 
