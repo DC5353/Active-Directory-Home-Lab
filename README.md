@@ -95,5 +95,23 @@ An ISO file is an uncompressed, sector-by-sector digital replica of optical disc
 
 <img width="1022" height="849" alt="iNSTALL N" src="https://github.com/user-attachments/assets/40b28306-201b-416d-8282-89ffc282c29b" />
 
+ - On the next page, make sure to select `Desktop Experience`, then click `Next`.
+
+<img width="1024" height="851" alt="Install desk" src="https://github.com/user-attachments/assets/a5920ffc-7e90-43c6-9914-8ff6c9019f0e" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   
   </details>
