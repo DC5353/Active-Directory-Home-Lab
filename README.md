@@ -18,8 +18,16 @@ To practice and demonstrate fundamental systems administration skills, I built a
   - Follow the installation wizard to complete the setup.
 
 # 2. Download the Windows Server 2022 & Windows 11 ISO
- - To download the Windows Server 2022 ISO, go to the [Microsoft Evaluation Center](https://www.microsoft.com/en-us/evalcenter/download-windows-server-2022) and search for "Windows Server 2022."
+ - To download the Windows Server 2022 ISO, go to the [Microsoft Evaluation Center](https://www.microsoft.com/en-us/evalcenter/download-windows-server-2022) and search for "Windows Server 2022." For both, you will need to select your language, and I recommend saving both ISO files in a folder that is not in your Downloads folder.
+
+
+<img width="1259" height="1272" alt="Windows Server 2022" src="https://github.com/user-attachments/assets/482817ee-2c10-4c8e-9b9e-27b9527cf118" />
+
+
  - To download the Windows 11 ISO, go to the [Microsoft Software Download Page](https://www.microsoft.com/en-us/software-download/windows11).
+
+<img width="1263" height="684" alt="Windows 11 ISO" src="https://github.com/user-attachments/assets/166e8148-3405-4bdd-b30f-6670e701e15d" />
+
 
 # What is an ISO file?
 An ISO file is an uncompressed, sector-by-sector digital replica of optical discs (CDs, DVDs, or Blu-rays) that serve as virtual installation media for virtual machines. In this use scenario, I'm mounting these ISO files and booting from them using VirtualBox virtualization software, much like you would with a real PC, laptop, or disk.
