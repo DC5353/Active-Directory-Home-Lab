@@ -43,7 +43,8 @@ An ISO file is an uncompressed, sector-by-sector digital replica of optical disc
 
 <img width="803" height="551" alt="VM name" src="https://github.com/user-attachments/assets/5773c593-c61a-48e7-87de-bfcefbbff209" />
 
-
+# 4. Configure Virtual Machine Hardware Settings
+ - Before spinning up the VM, make sure it runs properly on your PC or Laptop.
 
 
 
