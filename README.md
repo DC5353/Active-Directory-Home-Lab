@@ -107,9 +107,13 @@ An ISO file is an uncompressed, sector-by-sector digital replica of optical disc
 
 <img width="1025" height="848" alt="Install C" src="https://github.com/user-attachments/assets/1731b242-bb18-442c-b71f-0d573d04f09e" />
 
+ - On the Disk Allocation page, select the 50GB drive, then click `Next`.
 
+<img width="1021" height="846" alt="Disk A" src="https://github.com/user-attachments/assets/a5a5c5d4-46ce-444e-9053-77baf7d95aab" />
 
+Windows will then begin the installation process.
 
+<img width="1019" height="849" alt="install p" src="https://github.com/user-attachments/assets/acd5238d-8adf-41d5-808d-958c30c344de" />
 
 
 
