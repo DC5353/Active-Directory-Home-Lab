@@ -51,7 +51,7 @@ An ISO file is an uncompressed, sector-by-sector digital replica of optical disc
 
  - There are a lot of settings changes you can make to make your project easier for yourself, and I will walk you through them.
  - 1. **General**
- - In the `General tab`, go to `Features` in Shared Clipboard & Drag-and-Drop, and set it to Bidirectional. This feature allows you to go back and forth between your PC/Laptop and the VM while being able to copy and paste.
+ - In the `General tab`, go to `Features` in Shared Clipboard & Drag-and-Drop, and set it to Bidirectional. This feature allows you to go back and forth between your PC/Laptop and the VM while being able to copy and paste & Drag-and-Drop files.
 
 
 
