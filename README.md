@@ -45,6 +45,10 @@ An ISO file is an uncompressed, sector-by-sector digital replica of optical disc
 
 # 4. Configure Virtual Machine Hardware Settings
  - Before spinning up the VM, make sure it runs properly on your PC or Laptop.
+ - Now click on the settings icon, and your Windows Server settings should appear.
+
+<img width="1279" height="746" alt="Before Spin up" src="https://github.com/user-attachments/assets/d48346a1-2dca-40df-9ad5-354d535544fd" />
+
 
 
 
