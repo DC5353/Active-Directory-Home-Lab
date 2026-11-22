@@ -123,6 +123,10 @@ Windows will then begin the installation process & restart itself.
 
 <img width="1020" height="856" alt="W login" src="https://github.com/user-attachments/assets/1059312b-94e3-4ce3-a09f-1907d0553b77" />
 
+ - The VM is now ready and operational! Just repeat the process to create a Windows 11 Virtual Machine.
+
+<img width="1019" height="854" alt="Working Server" src="https://github.com/user-attachments/assets/85d3a03b-0c4b-49c4-bc51-ae2b8ef0c601" />
+
 
   
   </details>
