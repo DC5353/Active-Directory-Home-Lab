@@ -130,8 +130,10 @@ Windows will then begin the installation process & restart itself.
 <details>
 <summary>Fixing Mouse Lag and Scaling Issues</summary>
   
-  While the virtual machine is running, you will notice mouse lag and improper display scaling.
+  - While the virtual machine is running, you will notice mouse lag and improper display scaling.
+  - Go to Devices in the VirtualBox menu and select `Insert Guest Additions CD image...`.
 
+<img width="1019" height="849" alt="Insert G A CA image" src="https://github.com/user-attachments/assets/5089fc3b-421f-496c-82f7-e9686bd8531d" />
 
 
   </details>
