@@ -8,7 +8,7 @@ To practice and demonstrate fundamental systems administration skills, I built a
 
 ## VirtualBox - Initial Steps to Get Started
 <details>
-<summary>Start by downloading VirtualBox & Windows Server 2022 & Windows 11</summary>
+<summary>Start by downloading VirtualBox & Windows Server 2022 & Windows 11.</summary>
 
 # 1. Download and install VirtualBox
   - To start, visit the [VirtualBox website](https://www.virtualbox.org/) and download the latest version.
@@ -73,14 +73,13 @@ An ISO file is an uncompressed, sector-by-sector digital replica of optical disc
 
 </details>
 
+## VirtualBox - Installing Windows Server 2022
+
 
 <details>
-<summary>
- 
-  ## VirtualBox - Installing Windows Server 2022
-</summary>
+<summary>Getting Windows Server 2022 Online.</summary>
   
-  1. Open VirtualBox, select the Server 2022 VM, and click `Start`.
+ - Open VirtualBox, select the Server 2022 VM, and click `Start`.
 
 <img width="1276" height="744" alt="Install S" src="https://github.com/user-attachments/assets/b642e96c-e249-427f-990b-2b33980e9778" />
 
@@ -126,12 +125,9 @@ Windows will then begin the installation process & restart itself.
 
   </details>
 
-
+ ## VirtualBox - Fixing Mouse Lag and Display Scaling Issues
 <details>
-<summary>
- 
-  # VirtualBox - Fixing Mouse Lag and Display Scaling Issues
-</summary>
+<summary>Fixing Mouse Lag and Scaling Issues</summary>
   
   While the virtual machine is running, you will notice mouse lag and improper display scaling.
 
