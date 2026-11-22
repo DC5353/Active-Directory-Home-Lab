@@ -127,6 +127,35 @@ Windows will then begin the installation process & restart itself.
 
 <img width="1019" height="854" alt="Working Server" src="https://github.com/user-attachments/assets/85d3a03b-0c4b-49c4-bc51-ae2b8ef0c601" />
 
-
-  
   </details>
+
+
+<details>
+<summary>
+ 
+  # VirtualBox - Fixing Mouse Lag and Display Scaling Issues
+</summary>
+  
+  While the virtual machine is running, you will notice mouse lag and improper display scaling.
+
+
+
+  </details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
