@@ -6,12 +6,9 @@ To practice and demonstrate fundamental systems administration skills, I built a
 
 <img width="761" height="879" alt="Home Lab Diagram drawio" src="https://github.com/user-attachments/assets/afb05c61-ef2f-4a1b-84a3-c54e3c895e81" />
 
-
+## VirtualBox - Server 2022 & Windows 11 Setup
 <details>
-<summary>
-  
- # VirtualBox - Server 2022 & Windows 11 Setup
-</summary>
+<summary>Steps to Configure VirtualBox and Install Server 2022 & Windows 11</summary>
 
 # 1. Download and install VirtualBox
   - To start, visit the [VirtualBox website](https://www.virtualbox.org/) and download the latest version.
