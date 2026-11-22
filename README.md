@@ -101,7 +101,7 @@ An ISO file is an uncompressed, sector-by-sector digital replica of optical disc
 
  - On the next page, select `Custom Install`.
 
-<img width="1025" height="848" alt="Install C" src="https://github.com/user-attachments/assets/1731b242-bb18-442c-b71f-0d573d04f09e" />
+<img width="1025" height="848" alt="Install C" src="https://github.com/user-attachments/assets/0afda5ac-c607-4e5a-a35f-d939e358209d" />
 
  - On the Disk Allocation page, select the 50GB drive, then click `Next`.
 
