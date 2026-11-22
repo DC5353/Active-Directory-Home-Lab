@@ -111,7 +111,7 @@ Windows will then begin the installation process & restart itself.
 
 <img width="1019" height="849" alt="install p" src="https://github.com/user-attachments/assets/acd5238d-8adf-41d5-808d-958c30c344de" />
 
- - Once prompted, enter a password. I recommend something easy and write it down somewhere just in case, after all this is just a lab. Then click `Finish`.
+ - Once prompted, enter a password. I recommend something easy and write it down somewhere just in case; after all, this is just a lab. Then click `Finish`.
 
 <img width="1018" height="840" alt="C settings" src="https://github.com/user-attachments/assets/aced8d4e-be65-4d01-abc6-d21ebc7a868c" />
 
@@ -134,6 +134,25 @@ Windows will then begin the installation process & restart itself.
   - Go to Devices in the VirtualBox menu and select `Insert Guest Additions CD image...`.
 
 <img width="1019" height="849" alt="Insert G A CA image" src="https://github.com/user-attachments/assets/5089fc3b-421f-496c-82f7-e9686bd8531d" />
+
+
+ - Within the VM, Open `File Explorer` and navigate to `This PC`.
+ - Under `Devices and Drives`, open the `CD Drive (D:) VirtualBox Guest Additions`.
+
+<img width="1023" height="846" alt="CD Drive" src="https://github.com/user-attachments/assets/e160686d-0af6-406c-add8-918901472bb8" />
+
+ - Run `VBoxWindowsAdditions-amd64` and complete the installation steps. Make sure it is the `amd64` application 
+
+<img width="1021" height="845" alt="VGA" src="https://github.com/user-attachments/assets/0cfb5359-1c95-413e-b80e-a70880c8133e" />
+
+ - The mouse will now move smoothly, and the display scaling adjusts correctly, allowing for a better user experience.
+
+
+
+
+
+
+
 
 
   </details>
