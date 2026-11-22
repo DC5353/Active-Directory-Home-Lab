@@ -119,8 +119,9 @@ Windows will then begin the installation process & restart itself.
 
 <img width="1018" height="840" alt="C settings" src="https://github.com/user-attachments/assets/aced8d4e-be65-4d01-abc6-d21ebc7a868c" />
 
+ - When at the Windows login screen, press right Ctrl + Alt + Del, then enter the password to log in.
 
-
+<img width="1020" height="856" alt="W login" src="https://github.com/user-attachments/assets/1059312b-94e3-4ce3-a09f-1907d0553b77" />
 
 
   
