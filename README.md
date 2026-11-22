@@ -141,7 +141,7 @@ Windows will then begin the installation process & restart itself.
 
 <img width="1023" height="846" alt="CD Drive" src="https://github.com/user-attachments/assets/e160686d-0af6-406c-add8-918901472bb8" />
 
- - Run `VBoxWindowsAdditions-amd64` and complete the installation steps. Make sure it is the `amd64` application 
+ - Run `VBoxWindowsAdditions-amd64` and complete the installation steps. Make sure it is the `amd64` application. 
 
 <img width="1021" height="845" alt="VGA" src="https://github.com/user-attachments/assets/0cfb5359-1c95-413e-b80e-a70880c8133e" />
 
