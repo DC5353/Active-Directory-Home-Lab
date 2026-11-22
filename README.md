@@ -8,7 +8,7 @@ To practice and demonstrate fundamental systems administration skills, I built a
 
 ## VirtualBox - Initial Steps to Get Started
 <details>
-<summary>Start by downloading VirtualBox & Windows Server 2022 & Windows 11.</summary>
+<summary>Start by downloading VirtualBox & Windows Server 2022 & Windows 11. Then configure the virtual machine hardware settings.</summary>
 
 # 1. Download and install VirtualBox
   - To start, visit the [VirtualBox website](https://www.virtualbox.org/) and download the latest version.
@@ -126,6 +126,7 @@ Windows will then begin the installation process & restart itself.
   </details>
 
  ## VirtualBox - Fixing Mouse Lag and Display Scaling Issues
+
 <details>
 <summary>Fixing Mouse Lag and Scaling Issues</summary>
   
