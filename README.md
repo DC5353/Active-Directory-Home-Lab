@@ -115,6 +115,10 @@ Windows will then begin the installation process & restart itself.
 
 <img width="1019" height="849" alt="install p" src="https://github.com/user-attachments/assets/acd5238d-8adf-41d5-808d-958c30c344de" />
 
+ - Once prompted, enter a password, then click `Finish`.
+
+<img width="1018" height="840" alt="C settings" src="https://github.com/user-attachments/assets/aced8d4e-be65-4d01-abc6-d21ebc7a868c" />
+
 
 
 
