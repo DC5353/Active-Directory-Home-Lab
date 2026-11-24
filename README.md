@@ -147,14 +147,6 @@ Windows will then begin the installation process & restart itself.
 
  - The mouse will now move smoothly, and the display scaling adjusts correctly, allowing for a better user experience.
 
-
-
-
-
-
-
-
-
   </details>
 
 
