@@ -149,9 +149,21 @@ Windows will then begin the installation process & restart itself.
 
   </details>
 
+## Active Directory Domain Services (AD DS)
+
+  <details>
+  <summary>The primary server function in Microsoft's Active Directory platform that offers directory services, authentication, and authorization for Windows domain networks is called Active Directory Domain Services (AD DS). It functions as a centralized, hierarchical database that maintains access rights and security policies for network objects, such as users, groups, machines, and devices. To add AD DS, use Server Manager to add the role, configure it as the principal domain controller, and set up the domain itcorp.com or your own domain name to install AD DS. In the lab setting, this stage lays the groundwork for centralized management and security.</summary>
 
 
 
+
+
+
+
+
+
+    
+  </details>
 
 
 
