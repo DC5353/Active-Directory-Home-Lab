@@ -212,6 +212,29 @@ The first step is to identify the server by changing its name.
 
 <img width="1416" height="963" alt="Promote" src="https://github.com/user-attachments/assets/06b97fa9-07f0-454d-a632-16f92a211a86" />
 
+ 10. Add a New Forest: I'll be using ITCrop.com. Then click `Next`.
+
+<img width="1413" height="970" alt="D forest" src="https://github.com/user-attachments/assets/ca36163b-e0c5-4dd7-93ba-4f2d2f1f850d" />
+
+ 11. Now enter a password. I recommend that you use the same one or a slightly different one; just have it down somewhere. Then click `Next`.
+
+<img width="1411" height="966" alt="Pass DC" src="https://github.com/user-attachments/assets/ccf824c3-a303-4716-9030-dbe8713e25fc" />
+
+12. DNS Options: Leave unchecked and click `Next`.
+
+13.  NetBIOS Name: Leave as is and click `Next`.
+
+14.  Paths Tab: Keep defaults and click `Next`.
+   
+15.  Review Tab: Click `Next`.
+
+16.  Prerequisites Check: Click `Install`.
+
+<img width="1415" height="965" alt="Prerequisites Check" src="https://github.com/user-attachments/assets/407a43ed-cde0-4f49-bb7e-1e7f5c335a0c" />
+
+ 17. Once the installation is complete, the VM will automatically restart.
+
+
 
 
 
