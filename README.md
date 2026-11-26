@@ -235,13 +235,25 @@ The first step is to identify the server by changing its name.
 
  17. Once the installation is complete, the VM will automatically restart.
 
+</details>
 
+ ## Configuring a Static IP
+
+Configuring a static IP on the domain controller's internal NIC provides DNS, DHCP, and routing must keep a fixed address so clients can always locate it. A changing IP would break domain authentication, name resolution, and internet access for every client.
+
+<details>
+<summary>Configuring a Static IP for the DC</summary>
+
+
+
+  
+</details>
 
 
 
 
     
-  </details>
+  
 
 
 
