@@ -174,6 +174,35 @@ The first step is to identify the server by changing its name.
 
 <img width="1413" height="995" alt="Succ N" src="https://github.com/user-attachments/assets/136345c0-48dc-408b-aa9f-7e8eceb5d94d" />
 
+ ## Installing Services for the Server
+
+ Launch Server Manager
+
+ 1. When you log in, Server Manager should automatically open; if not, navigate to the Windows `Start`, then `Server Manager`.
+
+ 2. In Server Manager, click `Manage`, then add `Roles and Features`.
+
+<img width="1412" height="1000" alt="Rols   F" src="https://github.com/user-attachments/assets/345b7fd0-62e7-417c-bf82-16063dc74f13" />
+
+3. An installation wizard will appear; click `Next`.
+
+<img width="1408" height="996" alt="Begin" src="https://github.com/user-attachments/assets/00a1f08e-e6d7-4c59-bb3d-0a4809dcf38f" />
+
+ 4. Choose `Role-based or Feature-based Installation`, then click `Next`.
+
+<img width="1413" height="990" alt="Type" src="https://github.com/user-attachments/assets/7e77aee6-3c39-49b3-bf8f-46d72e207eca" />
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
