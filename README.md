@@ -158,11 +158,11 @@ The primary server function in Microsoft's Active Directory platform that offers
 
  ## Changing the Server Name
 
-The first step we should start with is knowing which server we are using by changing its name.
+The first step is to identify the server by changing its name.
 
- - 1. Start by navigating to `File Explorer` and right-click `This PC`, then select `Properties`.
+  1. Start by navigating to `Settings` and clicking `About`, then select `Rename this PC`.
 
-<img width="1410" height="999" alt="FE + P" src="https://github.com/user-attachments/assets/9c9b9062-e12e-43e0-a065-f551d8706974" />
+<img width="1413" height="999" alt="Settings PC" src="https://github.com/user-attachments/assets/eab8606f-70b4-473c-8813-5daa4e42317f" />
 
 
 
