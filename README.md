@@ -192,15 +192,25 @@ The first step is to identify the server by changing its name.
 
 <img width="1413" height="990" alt="Type" src="https://github.com/user-attachments/assets/7e77aee6-3c39-49b3-bf8f-46d72e207eca" />
 
+ 5. Click `Select a server from the server pool` and click `Next`.
 
+<img width="1410" height="992" alt="destin" src="https://github.com/user-attachments/assets/24c66e12-4286-41b0-9b0f-4682f1e71b9d" />
 
+ 6. For right now, select `Active Directory Domain Services`, click `Add Features`, then click `Next`. We will come back to add more as we finish one step at a time.
 
+<img width="1415" height="1003" alt="ADDS +" src="https://github.com/user-attachments/assets/1d15f1cc-463b-43a9-a083-50b8a1026570" />
 
+ 7. On the `Features` tab, leave everything as is, then click `Next`.
 
+ 8. On the `AD DS` tab, click `Next`, then click `Install` on the Confirmation tab.
 
+<img width="1409" height="995" alt="ADDS in" src="https://github.com/user-attachments/assets/b20eaaea-1f39-4a80-af35-93ab195bce2b" />
 
+<img width="1412" height="967" alt="ADDS Confirm" src="https://github.com/user-attachments/assets/d843319f-0f8e-4ef8-84bb-c31c9d2a12aa" />
 
+ 9. After the installation is complete, click `Promote this server to a domain controller`.
 
+<img width="1416" height="963" alt="Promote" src="https://github.com/user-attachments/assets/06b97fa9-07f0-454d-a632-16f92a211a86" />
 
 
 
