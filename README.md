@@ -244,6 +244,21 @@ Configuring a static IP on the domain controller's internal NIC provides DNS, DH
 <details>
 <summary>Configuring a Static IP for the DC</summary>
 
+ 1. To start, access the network adapters within the VM. On the Server Manager Dashboard, click `Local Server` then click one of the Ethernet adapters.
+
+<img width="1458" height="969" alt="IPv4" src="https://github.com/user-attachments/assets/b9c2e66d-6c5d-473f-97dc-319383649d14" />
+
+
+
+
+
+
+
+
+
+
+
+
 
 
   
