@@ -156,8 +156,13 @@ The primary server function in Microsoft's Active Directory platform that offers
 <details>
 <summary>Installing Active Directory Domain Services</summary>
 
+ ## Changing the Server Name
 
+The first step we should start with is knowing which server we are using by changing its name.
 
+ - 1. Start by navigating to `File Explorer` and right-click `This PC`, then select `Properties`.
+
+<img width="1410" height="999" alt="FE + P" src="https://github.com/user-attachments/assets/9c9b9062-e12e-43e0-a065-f551d8706974" />
 
 
 
