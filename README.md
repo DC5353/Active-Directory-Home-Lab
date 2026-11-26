@@ -164,7 +164,15 @@ The first step is to identify the server by changing its name.
 
 <img width="1413" height="999" alt="Settings PC" src="https://github.com/user-attachments/assets/eab8606f-70b4-473c-8813-5daa4e42317f" />
 
+ 2. Now change the server name; I will be using `ITCorp-DC1`, then click `Next`.
 
+<img width="1416" height="988" alt="Name Change" src="https://github.com/user-attachments/assets/f65359de-897b-4753-9f81-6a3755b3df54" />
+
+ 3. Now restart to commit the name change after you log back in and verify the name has been successfully changed.  
+
+<img width="1415" height="994" alt="Restart nsme" src="https://github.com/user-attachments/assets/959dd043-616e-461c-8cb4-d5e5cec76a1b" />
+
+<img width="1413" height="995" alt="Succ N" src="https://github.com/user-attachments/assets/136345c0-48dc-408b-aa9f-7e8eceb5d94d" />
 
 
 
